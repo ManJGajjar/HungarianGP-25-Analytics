@@ -1,4 +1,4 @@
-# Miami GP 2025 — FastF1 Race Analytics
+# Hungarian GP 2025 — FastF1 Race Analytics
 
 F1 race analysis notebook using FastF1 library with 9+ visualizations.
 
